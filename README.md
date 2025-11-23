@@ -10,3 +10,4 @@
 
 ### 用法
 - 用法见 usage.md 文件。
+- 含有 read_npy.py 文件，可用于把 npy 文件转成 txt 便于阅读。
