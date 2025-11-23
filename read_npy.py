@@ -1,7 +1,7 @@
 import numpy as np
 
 # 读取npy文件
-data = np.load('E:/optics(H)/gs_phase_retrieval_with_64_tests_11_20_new/temp_ratio/error_history.npy', allow_pickle=True)
+data = np.load('temp_ratio/error_history.npy', allow_pickle=True)
 
 '''
 # 保存完整数据到文本文件
